@@ -1,0 +1,11 @@
+{
+  "inputs": [
+    {
+      "name": "threshold",
+      "type": "choices",
+      "prompt": "Story points minimum",
+      "value": "35",
+      "choices": "10, 20, 35, 60, 100, 200"
+    }
+  ]
+}
