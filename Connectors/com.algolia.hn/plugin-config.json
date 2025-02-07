@@ -1,0 +1,9 @@
+{
+  "id": "com.algolia.hn",
+  "display_name": "HN Front Page",
+  "service_name": "Hacker News",
+  "site": "https://hn.algolia.com",
+  "icon": "https://hn.algolia.com/public/899d76bbc312122ee66aaaff7f933d13.png",
+  "item_style": "article",
+  "default_color": "orange"
+}
